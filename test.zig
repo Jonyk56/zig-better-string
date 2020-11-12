@@ -1,4 +1,4 @@
-const str = @import("main.zig");
+const str = @import("better-str.zig");
 const std = @import("std");
 
 pub fn main() void {
